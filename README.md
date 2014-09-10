@@ -7,12 +7,12 @@ See the How to Guide which describes how to recreate and run each use case.  It 
   
 Use Case 2:  
 Objective:  
--Secure data according to Role for row level security and Column Masking  
+Secure data according to Role for row level security and Column Masking  
   
 Problem:  
--Cannot hide region data from region specific users  
+Cannot hide region data from region specific users  
   
 Solution:  
--Leverage JBoss Data Virtualization to provide Row Level Security and Masking of columns  
+Leverage JBoss Data Virtualization to provide Row Level Security and Masking of columns  
   
 Currently works with Data Virtualization 6.0  
